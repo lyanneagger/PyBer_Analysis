@@ -25,7 +25,7 @@ In the line chart, total fares are shown by city type in weekly totals from Janu
 
 Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 
-Based on the results, there are a few ways to address the disparities performance across the city types. Since urban cities have a lower average fare than suburban or rural cities, slightly increasing fares in urban cities could take advantage of the number of rides occurring in larger numbers. 
+Based on the results, there are a few ways to address the disparities performance across the city types. Since urban cities have a lower average fare than suburban or rural cities, even slightly increasing fares in urban cities could take advantage of the number of rides occurring in larger numbers, resulting in even higher total fares from urban cities. Additionally, increasing the total number of rides through suburban and especially rural cities could greatly increase total fares in those types of cities. Introducing a small incentive or referral campaign 
 
 
 ____________________________________________________
